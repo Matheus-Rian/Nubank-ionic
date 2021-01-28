@@ -30,10 +30,10 @@ $ git clone https://github.com/Matheus-Rian/nubank-ionic.git
 # Enter the directory:
 $ cd nubank-ionic
   
-# Installing dependencies
+# Installing dependencies:
 $ npm i
 
-# Running the application in development mode
+# Running the application in development mode:
 $ ionic serve
 ``` 
 
